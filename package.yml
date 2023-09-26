@@ -1,0 +1,12 @@
+package: systags
+version: '1.0'
+author: Wolfgang Bund
+supportpage: https://github.com/redaxo/redaxo
+
+requires:
+    php:
+        version: '>=7.3'
+    redaxo: '^5.13'
+    packages:
+        yform: '>=3.2,<5.0.0-dev'
+        

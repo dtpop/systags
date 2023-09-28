@@ -7,6 +7,9 @@ So können Artikel, Yform Datensätze, Medien, Slices - was immer ihr braucht - 
 
 Dabei können die Tags dynamisch erstellt werden. Wenn man einfach einen Text ins Tags-Feld eingibt, erscheint eine Auswahl von bereits vorhandenen Tags. Aus dieser Liste kann man dann einen auswählen. Wenn der eingetragene Tag noch nicht vorhanden ist, so wird er angelegt.
 
+Im Einsatz kann man das AddOn z.B. hier sehen: https://schule-geht-besser.12motive.de/blog
+
+
 Voraussetzungen
 ---------------
 
